@@ -20,6 +20,7 @@ I am interested in AI/ML,currently improving my problem solving skills and start
 * Completed a Kaggle Capstone Project (AI Agents Intensive by Google) : https://www.kaggle.com/code/leelakrishna2007/openmentor-autonomous-multi-agent-tutor
 * Completed the 5-Day AI Agents Intensive Couse with Google(Kaggle) :https://share.google/Wg8Ap6ZfdNNmNZs4g
 * Earned the ORACLE CLOUD INFRASTRUCTURE 2025 CERTIFIED AI FOUNDATIONS ASSOCIATE badge : https://catalog-education.oracle.com/pls/certview/sharebadge?id=E7E89115FAE94957D4E8E03BE001E43A3F2F69FAC65F45BDEA66FDFABB2A1371
+* Earned the Engineer AI Agents with Agent Development Kit (ADK) Badge from Google Skills : https://www.credly.com/badges/8222e76b-10aa-4066-a213-e9dd7f56b7fa/public_url
 
 ## Profiles
 
